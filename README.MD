@@ -32,7 +32,7 @@ Build and run the application:
 `dotnet build`
 
 `dotnet run`
-The API will be accessible at http://localhost:5000. 
+The API will be accessible at http://localhost:5185. 
 You can use tools like curl or Postman to interact with the "generate" endpoint.
 
 ## Running Tests
@@ -50,6 +50,6 @@ Go to the CoreysAssessmentWeb directory:
 Build and run the web application:
 `dotnet build`
 `dotnet run`
-The web application will be available at http://localhost:5001
+The web application will be available at http://localhost:5055
 
 
