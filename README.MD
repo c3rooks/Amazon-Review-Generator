@@ -24,23 +24,33 @@ cd CoreysAssessment
 
 ## Running the API
 Go to the CoreysAssessmentAPI directory:
+```bash
 cd CoreysAssessmentAPI
+
 Build and run the application:
+```bash
 dotnet build
+```bash
 dotnet run
-The API will be accessible at http://localhost:5000. You can use tools like curl or Postman to interact with the "generate" endpoint.
+The API will be accessible at http://localhost:5000. 
+You can use tools like curl or Postman to interact with the "generate" endpoint.
 
 ## Running Tests
 Go to the CoreysAssessmentTests directory:
+```bash
 cd CoreysAssessmentTests
 Run the tests:
+```bash
 dotnet test
 
 ## Running the Web Application
 Go to the CoreysAssessmentWeb directory:
+```bash
 cd CoreysAssessmentWeb
 Build and run the web application:
+```bash
 dotnet build
+```bash
 dotnet run
 The web application will be available at http://localhost:5001
 
