@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1sUe+r3ROwVs+B0Zhevy2YENzRh8U06XPXoge/slFaRLejc9xdD2BA5aGBF1rFTveSpgOr0btHAXkfL1x3D67w==",
+  "dgSpecHash": "1f348SER724Pw1lowA9/lqBlYBKGm3UqWQQJYW4/wo0oVuHryIqzVKVUG48Oj8Tzplil93Dvm5/6AEbGzXNCrw==",
   "success": true,
-  "projectFilePath": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentTests/CoreysAssessmentTests.csproj",
+  "projectFilePath": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentTests/CoreysAssessmentTests.csproj",
   "expectedPackageFiles": [
     "/Users/coreycrooks/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/coreycrooks/.nuget/packages/microsoft.aspnetcore.openapi/7.0.3/microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",

@@ -509,11 +509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj",
+      "projectUniqueName": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj",
       "projectName": "CoreysAssessmentAPI",
-      "projectPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj",
+      "projectPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj",
       "packagesPath": "/Users/coreycrooks/.nuget/packages/",
-      "outputPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentAPI/obj/",
+      "outputPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/coreycrooks/.nuget/NuGet/NuGet.Config"

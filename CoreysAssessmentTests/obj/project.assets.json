@@ -1760,11 +1760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentTests/CoreysAssessmentTests.csproj",
+      "projectUniqueName": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentTests/CoreysAssessmentTests.csproj",
       "projectName": "CoreysAssessmentTests",
-      "projectPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentTests/CoreysAssessmentTests.csproj",
+      "projectPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentTests/CoreysAssessmentTests.csproj",
       "packagesPath": "/Users/coreycrooks/.nuget/packages/",
-      "outputPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentTests/obj/",
+      "outputPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/coreycrooks/.nuget/NuGet/NuGet.Config"
@@ -1779,8 +1779,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj": {
-              "projectPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj"
+            "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj": {
+              "projectPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj"
             }
           }
         }

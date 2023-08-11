@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentWeb/CoreysAssessmentWeb.csproj": {}
+    "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentWeb/CoreysAssessmentWeb.csproj": {}
   },
   "projects": {
-    "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj": {
+    "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj",
+        "projectUniqueName": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj",
         "projectName": "CoreysAssessmentAPI",
-        "projectPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj",
+        "projectPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj",
         "packagesPath": "/Users/coreycrooks/.nuget/packages/",
-        "outputPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentAPI/obj/",
+        "outputPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/coreycrooks/.nuget/NuGet/NuGet.Config"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentWeb/CoreysAssessmentWeb.csproj": {
+    "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentWeb/CoreysAssessmentWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentWeb/CoreysAssessmentWeb.csproj",
+        "projectUniqueName": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentWeb/CoreysAssessmentWeb.csproj",
         "projectName": "CoreysAssessmentWeb",
-        "projectPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentWeb/CoreysAssessmentWeb.csproj",
+        "projectPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentWeb/CoreysAssessmentWeb.csproj",
         "packagesPath": "/Users/coreycrooks/.nuget/packages/",
-        "outputPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentWeb/obj/",
+        "outputPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentWeb/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/coreycrooks/.nuget/NuGet/NuGet.Config"
@@ -96,8 +96,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj": {
-                "projectPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment2/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj"
+              "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj": {
+                "projectPath": "/Users/coreycrooks/Coding/Git/CoreyAssessment/CoreysAssessmentAPI/CoreysAssessmentAPI.csproj"
               }
             }
           }
