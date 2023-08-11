@@ -50,6 +50,6 @@ Go to the CoreysAssessmentWeb directory:
 Build and run the web application:
 `dotnet build`
 `dotnet run`
-The web application will be available at http://localhost:5055
+The web application will be available at https://localhost:5055
 
 
