@@ -1,0 +1,51 @@
+﻿@model CoreysAssessmentWeb.Models.Review
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Review</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .review-box {
+            padding: 20px;
+            border: 1px solid #ddd;
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: #fff;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+
+            .review-box h2 {
+                margin-top: 0;
+                color: #333;
+            }
+
+            .review-box p {
+                color: #666;
+            }
+
+        .rating {
+            font-weight: bold;
+            color: #ffa500; 
+        }
+    </style>
+</head>
+<body>
+
+    <div class="review-box">
+        <h2>Review:</h2>
+        <p>@Model.Content</p>
+        <p class="rating">Rating: @Model.StarRating stars</p>
+    </div>
+
+</body>
+</html>
