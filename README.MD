@@ -20,36 +20,36 @@ This ASP.NET Core application automatically generates Amazon product reviews bas
    ```bash
    git clone https://github.com/yourusername/CoreysAssessment.git
 Navigate to the solution directory
-cd CoreysAssessment
+`cd CoreysAssessment`
 
 ## Running the API
 Go to the CoreysAssessmentAPI directory:
 
-cd CoreysAssessmentAPI
+`cd CoreysAssessmentAPI`
 
 Build and run the application:
 
-dotnet build
+`dotnet build`
 
-dotnet run
+`dotnet run`
 The API will be accessible at http://localhost:5000. 
 You can use tools like curl or Postman to interact with the "generate" endpoint.
 
 ## Running Tests
 Go to the CoreysAssessmentTests directory:
 
-cd CoreysAssessmentTests
+`cd CoreysAssessmentTests`
 Run the tests:
 
-dotnet test
+`dotnet test`
 
 ## Running the Web Application
 Go to the CoreysAssessmentWeb directory:
 
-cd CoreysAssessmentWeb
+`cd CoreysAssessmentWeb`
 Build and run the web application:
-dotnet build
-dotnet run
+`dotnet build`
+`dotnet run`
 The web application will be available at http://localhost:5001
 
 
